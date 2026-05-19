@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page43159768.html
+Disallow: /page43326871.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://osam.design/sitemap.xml
+Host: https://osam.design
